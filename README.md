@@ -6,6 +6,17 @@
 
 https://max-chat-green-4ncdpntta-devlyashows-projects.vercel.app/
 
+## Screenshots
+
+<p align="center">
+  <img src="./screenshots/chat.png" width="48%" alt="MAX Chat light theme" />
+  <img src="./screenshots/dark-theme.png" width="48%" alt="MAX Chat dark theme" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/mobile.png" width="280" alt="MAX Chat mobile version" />
+</p>
+
 ## Возможности
 
 - Подключение к GREEN-API по API URL, ID Instance и API Token Instance
