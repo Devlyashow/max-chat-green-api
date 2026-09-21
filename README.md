@@ -9,14 +9,48 @@ https://max-chat-green-4ncdpntta-devlyashows-projects.vercel.app/
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/auth.png" width="48%" alt="MAX Chat dark theme" />
-  <img src="./screenshots/chat.png" width="48%" alt="MAX Chat light theme" />
+  <strong>Desktop Chat</strong>
 </p>
 
 <p align="center">
-  <img src="./screenshots/mobile.png" width="280" alt="MAX Chat mobile version" />
-  <img src="./screenshots/dark-theme.png" width="280" alt="MAX Chat mobile dark-theme" />
+  <img
+    src="./screenshots/chat.png"
+    width="850"
+    alt="MAX Chat desktop"
+  />
 </p>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Authorization</strong><br><br>
+      <img
+        src="./screenshots/auth.png"
+        height="340"
+        alt="Authorization"
+      />
+    </td>
+
+    <td align="center" width="33%">
+      <strong>Mobile</strong><br><br>
+      <img
+        src="./screenshots/mobile.png"
+        height="340"
+        alt="Mobile version"
+      />
+    </td>
+
+    <td align="center" width="33%">
+      <strong>Dark theme</strong><br><br>
+      <img
+        src="./screenshots/dark-theme.png"
+        height="340"
+        alt="Dark theme"
+      />
+    </td>
+
+  </tr>
+</table>
 
 ## Возможности
 
