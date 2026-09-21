@@ -60,5 +60,5 @@ https://max-chat-green-4ncdpntta-devlyashows-projects.vercel.app/
 Клонировать репозиторий:
 
 ```bash
-git clone <https://github.com/Devlyashow/max-chat-green-api>
+git clone https://github.com/Devlyashow/max-chat-green-api
 ```
