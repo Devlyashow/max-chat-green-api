@@ -13,42 +13,23 @@ https://max-chat-green-4ncdpntta-devlyashows-projects.vercel.app/
 </p>
 
 <p align="center">
-  <img
-    src="./screenshots/chat.png"
-    width="850"
-    alt="MAX Chat desktop"
-  />
+  <img src="./screenshots/chat.png" width="850" alt="MAX Chat desktop" />
 </p>
 
 <table>
   <tr>
     <td align="center" width="33%">
       <strong>Authorization</strong><br><br>
-      <img
-        src="./screenshots/auth.png"
-        height="340"
-        alt="Authorization"
-      />
+      <img src="./screenshots/auth.png" height="340" alt="Authorization" />
     </td>
-
     <td align="center" width="33%">
       <strong>Mobile</strong><br><br>
-      <img
-        src="./screenshots/mobile.png"
-        height="340"
-        alt="Mobile version"
-      />
+      <img src="./screenshots/mobile.png" height="340" alt="Mobile version" />
     </td>
-
     <td align="center" width="33%">
       <strong>Dark theme</strong><br><br>
-      <img
-        src="./screenshots/dark-theme.png"
-        height="340"
-        alt="Dark theme"
-      />
+      <img src="./screenshots/dark-theme.png" height="340" alt="Dark theme" />
     </td>
-
   </tr>
 </table>
 
