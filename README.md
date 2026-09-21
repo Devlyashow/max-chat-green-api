@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-https://max-chat-green-4ncdpntta-devlyashows-projects.vercel.app/
+https://max-chat-green-api.vercel.app/
 
 ## Screenshots
 
